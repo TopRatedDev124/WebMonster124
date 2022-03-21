@@ -96,7 +96,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=WebMonster124&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -104,7 +104,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=WebMonster124&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=WebMonster124.WebMonster124" alt="visitors">
-</div>
+</div> -->
 
 ## 🔗 Links
 
