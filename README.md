@@ -26,6 +26,9 @@
 -   🥇 Experience **RESTful API** design and development
 -   🥈 Integrated third-party APIs like Google Analytics, Slack, and Twilio
 -   🥉 Analyzed business requirement to translate functional requirements into technical requirements and developed web application using **MERN** stack.
+### blockchain web developer
+I have 4+ experience in Solana, Rust, Smart Contract, Web3.js, NFT, marketplace, DApps/Defi/DEX, Swap, Farms, and Staking and etc.
+Also, I can connect any wallet to the site and have top web2 skills including Laravel, Node.js, React.js, Vue.js, Angualr.js, WordPress, Firebase, AWS, API integration, Git.
 
 ## 🛠️ Skills
 
