@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-<img scr="https://github.com/webmonster124/WebMonster124/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif"/>
+<img scr="https://github.com/webmonster124/WebMonster124/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="100%"/>
 
 ## 🚀 About Me
 
