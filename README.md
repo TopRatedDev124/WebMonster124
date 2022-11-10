@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 <img scr="https://github.com/webmonster124/WebMonster124/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="100%"/>
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ## 🚀 About Me
 
 🎓 As I am a positive, enthusiastic and competent Web Developer, I has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. I have strong experience working both alone and as part of a team in developing the web projects that require outstanding creative and technical capabilities. I take my work as a Web Developer seriously and this means I always ensure my skills are kept up to date within this rapidly changing industry.
